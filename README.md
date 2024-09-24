@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UreshVel/JAVA_Codes/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/UreshVel/JAVA_Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UreshVel/JAVA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0136-single-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -38,4 +39,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UreshVel/JAVA_Codes/tree/master/0001-two-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
