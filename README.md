@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UreshVel/JAVA_Codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -47,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UreshVel/JAVA_Codes/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/UreshVel/JAVA_Codes/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/UreshVel/JAVA_Codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -63,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/UreshVel/JAVA_Codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/UreshVel/JAVA_Codes/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/UreshVel/JAVA_Codes/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
 | ------- |
