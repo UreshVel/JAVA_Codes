@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/UreshVel/JAVA_Codes/tree/master/0020-valid-parentheses) |
+| [0058-length-of-last-word](https://github.com/UreshVel/JAVA_Codes/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 ## Stack
 |  |
