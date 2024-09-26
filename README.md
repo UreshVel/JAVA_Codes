@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UreshVel/JAVA_Codes/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/UreshVel/JAVA_Codes/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/UreshVel/JAVA_Codes/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/UreshVel/JAVA_Codes/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/UreshVel/JAVA_Codes/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UreshVel/JAVA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0136-single-number) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/UreshVel/JAVA_Codes/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/UreshVel/JAVA_Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0263-ugly-number) |
