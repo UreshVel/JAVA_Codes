@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
+| [0696-count-binary-substrings](https://github.com/UreshVel/JAVA_Codes/tree/master/0696-count-binary-substrings) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/UreshVel/JAVA_Codes/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/UreshVel/JAVA_Codes/tree/master/0058-length-of-last-word) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
+| [0696-count-binary-substrings](https://github.com/UreshVel/JAVA_Codes/tree/master/0696-count-binary-substrings) |
 ## Stack
 |  |
 | ------- |
