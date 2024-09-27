@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/UreshVel/JAVA_Codes/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
+| [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
 |  |
 | ------- |
