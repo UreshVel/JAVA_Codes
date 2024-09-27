@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/UreshVel/JAVA_Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UreshVel/JAVA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
 | ------- |
@@ -129,4 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/UreshVel/JAVA_Codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
