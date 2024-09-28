@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/UreshVel/JAVA_Codes/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/UreshVel/JAVA_Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0263-ugly-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/UreshVel/JAVA_Codes/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/UreshVel/JAVA_Codes/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/UreshVel/JAVA_Codes/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 | [0696-count-binary-substrings](https://github.com/UreshVel/JAVA_Codes/tree/master/0696-count-binary-substrings) |
