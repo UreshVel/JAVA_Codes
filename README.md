@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/UreshVel/JAVA_Codes/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/UreshVel/JAVA_Codes/tree/master/0941-sort-array-by-parity) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/UreshVel/JAVA_Codes/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/UreshVel/JAVA_Codes/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/UreshVel/JAVA_Codes/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/UreshVel/JAVA_Codes/tree/master/0696-count-binary-substrings) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/UreshVel/JAVA_Codes/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/UreshVel/JAVA_Codes/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Matrix
