@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/UreshVel/JAVA_Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/UreshVel/JAVA_Codes/tree/master/1289-day-of-the-week) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 ## Sorting
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
