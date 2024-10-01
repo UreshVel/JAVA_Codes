@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/UreshVel/JAVA_Codes/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/UreshVel/JAVA_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/UreshVel/JAVA_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 ## Memoization
