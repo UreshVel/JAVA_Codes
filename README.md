@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/UreshVel/JAVA_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/UreshVel/JAVA_Codes/tree/master/0371-sum-of-two-integers) |
+| [0492-construct-the-rectangle](https://github.com/UreshVel/JAVA_Codes/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/UreshVel/JAVA_Codes/tree/master/1289-day-of-the-week) |
