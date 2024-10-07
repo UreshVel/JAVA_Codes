@@ -6,9 +6,9 @@ class Solution {
         {
             hs.add(i);
         }
-        for(char i:stones.toCharArray())
+        for(char j:stones.toCharArray())
         {
-            if(hs.contains(i))
+            if(hs.contains(j))
             jewelscount++;
         }
         return jewelscount;
