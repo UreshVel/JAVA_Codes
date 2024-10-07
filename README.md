@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0782-jewels-and-stones](https://github.com/UreshVel/JAVA_Codes/tree/master/0782-jewels-and-stones) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/UreshVel/JAVA_Codes/tree/master/0520-detect-capital) |
 | [0696-count-binary-substrings](https://github.com/UreshVel/JAVA_Codes/tree/master/0696-count-binary-substrings) |
 | [0742-to-lower-case](https://github.com/UreshVel/JAVA_Codes/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/UreshVel/JAVA_Codes/tree/master/0782-jewels-and-stones) |
 ## Stack
 |  |
 | ------- |
