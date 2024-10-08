@@ -6,10 +6,10 @@ class Solution {
             if(arr[i]%2!=0)
             {
                 consecutiveodds++;
-            if(consecutiveodds>=3)
-            {
-                return true;
-            }
+                if(consecutiveodds>=3)
+                {
+                    return true;
+                }
             }
             else
             {
