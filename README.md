@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
 | [1289-day-of-the-week](https://github.com/UreshVel/JAVA_Codes/tree/master/1289-day-of-the-week) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
 |  |
 | ------- |
