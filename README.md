@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/UreshVel/JAVA_Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UreshVel/JAVA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/UreshVel/JAVA_Codes/tree/master/1086-divisor-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/UreshVel/JAVA_Codes/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
+| [1086-divisor-game](https://github.com/UreshVel/JAVA_Codes/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/UreshVel/JAVA_Codes/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Simulation
@@ -204,4 +206,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/UreshVel/JAVA_Codes/tree/master/0219-contains-duplicate-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/UreshVel/JAVA_Codes/tree/master/1086-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1086-divisor-game](https://github.com/UreshVel/JAVA_Codes/tree/master/1086-divisor-game) |
 <!---LeetCode Topics End-->
