@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/UreshVel/JAVA_Codes/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/UreshVel/JAVA_Codes/tree/master/0941-sort-array-by-parity) |
+| [1031-add-to-array-form-of-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1293-three-consecutive-odds](https://github.com/UreshVel/JAVA_Codes/tree/master/1293-three-consecutive-odds) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/UreshVel/JAVA_Codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/UreshVel/JAVA_Codes/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/UreshVel/JAVA_Codes/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
+| [1031-add-to-array-form-of-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1086-divisor-game](https://github.com/UreshVel/JAVA_Codes/tree/master/1086-divisor-game) |
 | [1289-day-of-the-week](https://github.com/UreshVel/JAVA_Codes/tree/master/1289-day-of-the-week) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
