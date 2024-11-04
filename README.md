@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0941-sort-array-by-parity](https://github.com/UreshVel/JAVA_Codes/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1031-add-to-array-form-of-integer) |
+| [1036-rotting-oranges](https://github.com/UreshVel/JAVA_Codes/tree/master/1036-rotting-oranges) |
 | [1293-three-consecutive-odds](https://github.com/UreshVel/JAVA_Codes/tree/master/1293-three-consecutive-odds) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/UreshVel/JAVA_Codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/UreshVel/JAVA_Codes/tree/master/0074-search-a-2d-matrix) |
+| [1036-rotting-oranges](https://github.com/UreshVel/JAVA_Codes/tree/master/1036-rotting-oranges) |
 ## String
 |  |
 | ------- |
@@ -221,4 +223,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/UreshVel/JAVA_Codes/tree/master/0206-reverse-linked-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/UreshVel/JAVA_Codes/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
