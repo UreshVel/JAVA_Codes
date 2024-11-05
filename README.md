@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/UreshVel/JAVA_Codes/tree/master/0941-sort-array-by-parity) |
 | [1031-add-to-array-form-of-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/UreshVel/JAVA_Codes/tree/master/1036-rotting-oranges) |
+| [1039-find-the-town-judge](https://github.com/UreshVel/JAVA_Codes/tree/master/1039-find-the-town-judge) |
 | [1293-three-consecutive-odds](https://github.com/UreshVel/JAVA_Codes/tree/master/1293-three-consecutive-odds) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/UreshVel/JAVA_Codes/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/UreshVel/JAVA_Codes/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/UreshVel/JAVA_Codes/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/UreshVel/JAVA_Codes/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/UreshVel/JAVA_Codes/tree/master/0782-jewels-and-stones) |
+| [1039-find-the-town-judge](https://github.com/UreshVel/JAVA_Codes/tree/master/1039-find-the-town-judge) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -227,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/UreshVel/JAVA_Codes/tree/master/1036-rotting-oranges) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/UreshVel/JAVA_Codes/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
