@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UreshVel/JAVA_Codes/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/UreshVel/JAVA_Codes/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/UreshVel/JAVA_Codes/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/UreshVel/JAVA_Codes/tree/master/1013-fibonacci-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UreshVel/JAVA_Codes/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/UreshVel/JAVA_Codes/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/UreshVel/JAVA_Codes/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/UreshVel/JAVA_Codes/tree/master/0058-length-of-last-word) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/UreshVel/JAVA_Codes/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/UreshVel/JAVA_Codes/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/UreshVel/JAVA_Codes/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UreshVel/JAVA_Codes/tree/master/0342-power-of-four) |
