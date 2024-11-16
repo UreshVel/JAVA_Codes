@@ -1,26 +1,23 @@
 class Solution {
-    public List<List<Integer>> combinationSum(int[] nums, int target) {
-        List<List<Integer>> ans = new ArrayList<>();
-        backtrack(ans, new ArrayList<>(), nums, target, 0, 0);
-        return ans;
-    }
-
-    void backtrack(List<List<Integer>> ans, List<Integer> list, int[] nums, int target, int cur_sum, int start){
-        //Base Case 
-        if(cur_sum == target){ 
-            ans.add(new ArrayList<>(list));
+    public static void CombinationSum(int t,int idx,List<List<Integer>>ans,List<Integer>ds,int arr[]){
+        if(idx==arr.length){
+            if(t==0){
+                ans.add(new ArrayList(ds));
+            }
             return;
         }
-
-        //Recursive Case
-        for(int i = start; i < nums.length; i++){
-            if(cur_sum + nums[i] > target) continue; // search sum <= target 
-            list.add(nums[i]);
-            cur_sum += nums[i];
-            backtrack(ans, list, nums, target, cur_sum, i); // save current i, values can be used multiple times
-            // clear a space for new numbers 
-            cur_sum -= list.get(list.size()-1);
-            list.remove(list.size()-1);
+        if(t>=arr[idx]){
+            ds.add(arr[idx]);
+            CombinationSum(t-arr[idx],idx,ans,ds,arr);
+            ds.remove(ds.size()-1);
         }
+        CombinationSum(t,idx+1,ans,ds,arr);
+    }
+
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<List<Integer>>arr=new ArrayList<>();
+        List<Integer>ds=new ArrayList<>();
+        CombinationSum(target,0,arr,ds,candidates);
+        return arr;
     }
 }
